@@ -1,5 +1,7 @@
 # lecture-2016-06-22
 
+Thanks to Dylan V. for volunteering to demonstrate all the things.
+
 Transcript:
 
 ```
